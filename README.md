@@ -14,10 +14,8 @@ The idea consists of:
 3) A time interval to apply mathematical function.
 4) An incremental counter at a given speed.
 
-Procedure:
-
+Procedure: 
 Verify every a constant time interval such as one (1) second that the square of the counter is a whole number and then add to a list current digit of the flow.
 
 Uses:
-
 This method has multiple applications in cryptography (not analog) such as in the Real Time Encryption Method.
